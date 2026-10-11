@@ -3,16 +3,66 @@ Tema: Oratória
 
 Objetivo: Criar um segundo cérebro e assistente especialista que me ajude a evoluir nesta habilidade com ensinamentos e sugestões de atividades diárias.
 
-Fontes: As fontes presentes neste notebook são os livros sobre o tema mais relevantes da história da humanidade e da atualidade. Todos esses livros sobreviveram ao teste do tempo, ou seja, permaneceram relevantes mesmo decorrido centenas ou milhares de anos. Para os livros mais atuais, o fato de serem best-sellers evidencia que trazem ensinamentos úteis para qualquer leitor. Tais argumentos demonstram o motivo de serem fontes confiáveis. Adicionalmente, há materiais desenvolvidos pelo Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP) que é um centro de excelência no ensino, pesquisa e extensão, sendo uma das instituições de ensino superior mais respeitadas do Brasil. Há também materiais desenvolvidos pelo Toastmasters Internacional, que é uma organização educacional sem fins lucrativos centenária que ajuda pessoas a desenvolverem habilidades de oratória, comunicação e liderança.
+---
+
+Fontes: As fontes presentes neste notebook são os livros sobre o tema mais relevantes da história da humanidade e da atualidade. Todos esses livros sobreviveram ao teste do tempo, ou seja, permaneceram relevantes mesmo decorrido centenas ou milhares de anos. Para os livros mais atuais, o fato de serem best-sellers evidencia que trazem ensinamentos úteis para qualquer leitor. Tais argumentos demonstram o motivo de serem fontes confiáveis. Adicionalmente, há materiais desenvolvidos pelo Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP) que é um centro de excelência no ensino, pesquisa e extensão, sendo uma das instituições de ensino superior mais respeitadas do Brasil. Há também materiais desenvolvidos pelo Toastmasters Internacional, que é uma organização educacional sem fins lucrativos centenária que ajuda pessoas a desenvolverem habilidades de oratória, comunicação e liderança. Por fim, utilizei o deep research para buscar mais fontes relevantes para meu notebook.
+
+Aqui está a lista numerada de todas as **41 fontes** presentes neste notebook:
+
+1. **"Como Fazer Alguém Gostar de Você em 90 Segundos – Audiobook Completo | Nicholas Boothman**
+2. **A Ciência da Oratória: Fundamentos Estruturais, Neurofisiologia Vocal, Gestão Cognitiva da Ansiedade e Protocolos de Treinamento Deliberado**
+3. **A Pocket Guide to Public Speaking - Parliament of South Africa**
+4. **A arte de ter razão: Arthur Schopenhauer - audiobook**
+5. **A glossary of Glossophobia and the Fear of Public Speaking**
+6. **AUDIOBOOK - A ARTE DE ARGUMENTAR {RAYELE NOGUEIRA}**
+7. **AUDIOBOOK Storytelling Aprenda a Contar Histórias Carmine Gallo**
+8. **AUDIOLIVRO - NEGOCIE COMO SE SUA VIDA DEPENDESSE DISSO**
+9. **AUDIOLIVRO COMPLETO: Como Chegar ao Sim - A Negociação de Acordos Sem Concessões**
+10. **As armas da persuasão | Robert B. Cialdini, Ph. D. | Audiobook | UM EU MELHOR**
+11. **Audio Livro Manual de persuasão do FBI - Completo - Narração Humana - Voz profissional.**
+12. **AudioBook - Gatilhos Mentais**
+13. **Audiolivro As 48 Leis do Poder Robert Greene**
+14. **Audiolivro | TED Falar, Convencer, Emocionar | Completo**
+15. **COMO FAZER AMIGOS E INFLUENCIAR PESSOAS | Audiobook | Completo | Dale Carnegie**
+16. **Capital Erótico_ Catherine Hakim (Audiobook Completo)**
+17. **Como Falar em Público e Encantar as Pessoas | Dale Carnegie | Audiolivro COMPLETO**
+18. **Como convencer alguém em 90 segundos - Áudio Livro - Vai na Descrição!**
+19. **Contágio - Porque as Coisas Pegam - AudioBook 🎧 Completo - Jonah Berger - | Narração Elyson Sotti**
+20. **Effects of Vocal Function Exercises: A Systematic Review | Request PDF - ResearchGate**
+21. **Get Excited: Why Saying “I Am Excited” Beats “Calm Down” Before a Speech, and What the Replication Found - Exprea**
+22. **Manual de Argumentação e Oratória.pdf**
+23. **Manual de práticas de oratória.pdf**
+24. **O Corpo Fala (VIDEOBOOK ILUSTRADO) Pierre Weil e Roland Tompakow (Audiobook Completo)**
+25. **Pré-suasão: A influência começa antes mesmo da primeira palavra Robert Cialdini Audiobook Completo**
+26. **Psychological Interventions for the Fear of Public Speaking: A Meta-Analysis - PMC**
+27. **Public Speaking for Executives: Leading with Influence | Request PDF - ResearchGate**
+28. **RETÓRICA - ARISTÓTELES #livro #estoicismo #filosofia**
+29. **Reappraising Pre-Performance Anxiety as Excitement - Harvard Business School**
+30. **Settle the Score - KEVIN SKELTON**
+31. **Songs of Seoul: An Ethnography of Voice and Voicing in Christian South Korea 9780520957404 - [link suspeito removido]**
+32. **Supercomunicadores - Charles Duhigg - Audiobook Exclusivo e Completo**
+33. **TED Talks: The Official TED Guide to Public Speaking by Chris Anderson (2024 FULL AUDIOBOOK)**
+34. **The Competent Speaker Speech Evaluation Form - University of New England**
+35. **The Pencil-in-Mouth Exercise: How It Fixes Unclear Speech Fast | Vulpine Creations**
+36. **Toastmasters International -**
+37. **Toastmasters International -**
+38. **deias que Colam: Por que algumas ideias pegam e outras não made to stick audiobook completo**
+39. **ЭУМК Стратегии коммуникативного поведения.pdf**
+40. **📚 COMO FALAR EM PÚBLICO E INFLUENCIAR PESSOAS NO MUNDO DOS NEGÓCIOS | DALE CARNEGIE**
+41. **🧠 AS ARMAS DA PERSUASÃO 2.0 | Audiobook Completo | A CIÊNCIA ATUALIZADA DA INFLUÊNCIA**
+
+---
 
 Diretriz: Comporte-se como um segundo cérebro baseado nos ensinamentos dos maiores oradores da história da humanidade e seja meu assistente particular no desenvolvimento da oratória.
+
+---
 
 Link do repositório: https://notebook.google.com/notebook/041d9346-6624-4e6b-9c66-178269893eb1
 
 
----------------------------------------------
----------------------------------------------
----------------------------------------------
+---
+---
+---
 
 PERGUNTA 1
 
@@ -96,8 +146,8 @@ Este **Plano de Desenvolvimento Prático em Comunicação, Persuasão e Oratóri
 * [7] *"Ideias que Colam: Por que algumas ideias pegam e outras não made to stick audiobook completo"*
 * [8] *"Audiolivro | TED Falar, Convencer, Emocionar | Completo"*
 
----------------------------------------------
----------------------------------------------
+---
+---
 
 PERGUNTA 2 
 
@@ -181,8 +231,8 @@ A seguir estão os principais gatilhos mentais extraídos da literatura de persu
 * [7] *"AUDIOBOOK Storytelling Aprenda a Contar Histórias Carmine Gallo"*
 * [8] *"Audiolivro | TED Falar, Convencer, Emocionar | Completo"*
 
----------------------------------------------
----------------------------------------------
+---
+---
 
 PERGUNTA 3
 
