@@ -1,11 +1,11 @@
 # oratoria
-Tema: Oratória
+**TEMA**: Oratória
 
-Objetivo: Criar um segundo cérebro e assistente especialista que me ajude a evoluir nesta habilidade com ensinamentos e sugestões de atividades diárias.
+**OBJETIVO**: Criar um segundo cérebro e assistente especialista que me ajude a evoluir nesta habilidade com ensinamentos e sugestões de atividades diárias.
 
 ---
 
-Fontes: As fontes presentes neste notebook são os livros sobre o tema mais relevantes da história da humanidade e da atualidade. Todos esses livros sobreviveram ao teste do tempo, ou seja, permaneceram relevantes mesmo decorrido centenas ou milhares de anos. Para os livros mais atuais, o fato de serem best-sellers evidencia que trazem ensinamentos úteis para qualquer leitor. Tais argumentos demonstram o motivo de serem fontes confiáveis. Adicionalmente, há materiais desenvolvidos pelo Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP) que é um centro de excelência no ensino, pesquisa e extensão, sendo uma das instituições de ensino superior mais respeitadas do Brasil. Há também materiais desenvolvidos pelo Toastmasters Internacional, que é uma organização educacional sem fins lucrativos centenária que ajuda pessoas a desenvolverem habilidades de oratória, comunicação e liderança. Por fim, utilizei o deep research para buscar mais fontes relevantes para meu notebook.
+**FONTES**: As fontes presentes neste notebook são os livros sobre o tema mais relevantes da história da humanidade e da atualidade. Todos esses livros sobreviveram ao teste do tempo, ou seja, permaneceram relevantes mesmo decorrido centenas ou milhares de anos. Para os livros mais atuais, o fato de serem best-sellers evidencia que trazem ensinamentos úteis para qualquer leitor. Tais argumentos demonstram o motivo de serem fontes confiáveis. Adicionalmente, há materiais desenvolvidos pelo Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP) que é um centro de excelência no ensino, pesquisa e extensão, sendo uma das instituições de ensino superior mais respeitadas do Brasil. Há também materiais desenvolvidos pelo Toastmasters Internacional, que é uma organização educacional sem fins lucrativos centenária que ajuda pessoas a desenvolverem habilidades de oratória, comunicação e liderança. Por fim, utilizei o deep research para buscar mais fontes relevantes para meu notebook.
 
 Aqui está a lista numerada de todas as **41 fontes** presentes neste notebook:
 
@@ -53,22 +53,22 @@ Aqui está a lista numerada de todas as **41 fontes** presentes neste notebook:
 
 ---
 
-Diretriz: Comporte-se como um segundo cérebro baseado nos ensinamentos dos maiores oradores da história da humanidade e seja meu assistente particular no desenvolvimento da oratória.
+**DIRETRIZ**: Comporte-se como um segundo cérebro baseado nos ensinamentos dos maiores oradores da história da humanidade e seja meu assistente particular no desenvolvimento da oratória.
 
 ---
 
-Link do repositório: https://notebook.google.com/notebook/041d9346-6624-4e6b-9c66-178269893eb1
+**Link do repositório:** https://notebook.google.com/notebook/041d9346-6624-4e6b-9c66-178269893eb1
 
 
 ---
 ---
 ---
 
-PERGUNTA 1
+**PERGUNTA 1**:
 
 Com base nos ensinamentos presentes nos conteúdos, quero que você monte um plano de desenvolvimento dessa habilidade para mim. O plano precisa conter atividades práticas que façam eu realmente me desenvolver. Tenho 15 minutos diários para as práticas e quero ter melhorado nesse item até o final do ano.
 
-RESPOSTA
+RESPOSTA:
 
 Este **Plano de Desenvolvimento Prático em Comunicação, Persuasão e Oratória** foi estruturado especificamente para ser executado em **15 minutos diários** até o final do ano. Ele sintetiza as técnicas de conexão rápida, escuta estratégica, empatia tática e *storytelling* presentes nos seus conteúdos [1] [2].
 
@@ -149,11 +149,11 @@ Este **Plano de Desenvolvimento Prático em Comunicação, Persuasão e Oratóri
 ---
 ---
 
-PERGUNTA 2 
+**PERGUNTA 2**:
 
 Quais são os principais gatilhos mentais? Dê exemplos claros para eu entender cada um deles.
 
-RESPOSTA
+RESPOSTA:
 
 Os **gatilhos mentais** são padrões de atalho cognitivo e psicológico que o cérebro utiliza para tomar decisões automáticas de forma rápida e eficiente, sem a necessidade de reanalisar minuciosamente todas as informações do ambiente [1] [2]. Esses atalhos atuam diretamente na nossa mente emocional e instintiva — o chamado "Sistema 1" —, direcionando a racionalidade para a tomada de decisão [3].
 
@@ -234,11 +234,11 @@ A seguir estão os principais gatilhos mentais extraídos da literatura de persu
 ---
 ---
 
-PERGUNTA 3
+**PERGUNTA 3**:
 
 Como posso identificar sentimentos, intenções e conflitos internos através dos gestos inconscientes que as pessoas fazem?
 
-RESPOSTA
+RESPOSTA:
 
 Identificar sentimentos, intenções e conflitos internos através do corpo requer observar os gestos involuntários como um sistema integrado, no qual a **atitude não-verbal**, a **fisiologia** e as **microexpressões** revelam o que a mente tenta ocultar. Quando há contradição entre o discurso verbal e o comportamento corporal, o cérebro humano confia instintivamente na linguagem não-verbal [1].
 
